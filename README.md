@@ -1,6 +1,6 @@
 # AAI-500-FinalTeamProject
 
-The final project for this course will assess the development of an end-to-end statistical analysis. By the end of Module 2, you will be assigned to a group by your instructor. You and your teammate(s) will work closely to find a dataset, clean and prepare it for analysis, perform EDA, and produce a model. You will then create a final technical report discussing the results of your analysis and the validity of your model. It is required that you and your team use GitHub as a code hosting platform to manage version control and collaboration during this project. It is also necessary to create and add a README Download READMEfile to your GitHub repository. It is recommended that you follow the PEP 8Links to an external site. – Style Guide for your Python code in the final project.
+The final project for this course will assess the development of an end-to-end statistical analysis. You and your teammate(s) will work closely to find a dataset, clean and prepare it for analysis, perform EDA, and produce a model. You will then create a final technical report discussing the results of your analysis and the validity of your model. It is required that you and your team use GitHub as a code hosting platform to manage version control and collaboration during this project. It is also necessary to create and add a README Download READMEfile to your GitHub repository. It is recommended that you follow the PEP 8Links to an external site. – Style Guide for your Python code in the final project.
 
 Project Timeline
 
